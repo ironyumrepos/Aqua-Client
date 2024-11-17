@@ -1,5 +1,5 @@
 @echo off 
-echo Launched!
+echo Sorry, We could'nt launch: LaunchInBeta
 pause
 
 
